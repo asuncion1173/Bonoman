@@ -1,0 +1,15 @@
+img {
+    width: 250px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 20px;
+  }
+  .username {
+    font-weight: bold;
+    font-size: 35px;
+  }
+  .substance {
+    font-size: 15px;
+    color: darkolivegreen;
+    font-weight: bolder;
+  }
